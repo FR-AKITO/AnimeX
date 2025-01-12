@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Animex Stream</h1>
+<h1>Anime Stream</h1>
 
 [![Animex Discord server](https://discordapp.com/api/guilds/921529286698074185/widget.png?style=banner1)](https://discord.gg/uEAKwRrFpn)
 
@@ -7,7 +7,7 @@
 
 Since it is an open-source project, there won't be any ads in this website.
 
-The official website is [animexstream.xyz](https://www.animexstream.xyz)
+The official website is [None](https://www.animexstream.xyz)
 
 </div>
 <h3>Features:</h3>
@@ -37,13 +37,7 @@ The official website is [animexstream.xyz](https://www.animexstream.xyz)
     <li>✔ Framer Motion</li>
  </ul>
  
- ### Support
-
-Consider showing some support with a cup of coffee.
-
-<a href="https://www.buymeacoffee.com/ottoprogrammer"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="35px"/></a>
-
 <br/>
 <!-- LICENSE -->
 
-Copyright © 2022 Otto Programmer
+Copyright © 2024 Akito
