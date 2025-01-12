@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Anime Stream</h1>
+<h1>Anime Stream My Own Lalala</h1>
 
 [![Animex Discord server](https://discordapp.com/api/guilds/921529286698074185/widget.png?style=banner1)](https://discord.gg/uEAKwRrFpn)
 
